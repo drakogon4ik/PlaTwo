@@ -18,7 +18,7 @@ from protocol import *
 
 
 port = 3969
-ip = '172.16.9.215'
+ip = '127.0.0.1'
 
 
 def random_direction():
